@@ -1,0 +1,25 @@
+{
+  "name": "project2-blockchain",
+  "version": "1.0.0",
+  "description": "Todo List On-Chain smart contract project using Solidity, Hardhat, and Ethers.js.",
+  "main": "hardhat.config.js",
+  "scripts": {
+    "test": "hardhat test",
+    "compile": "hardhat compile",
+    "node": "hardhat node",
+    "deploy": "hardhat run scripts/deploy.js --network localhost"
+  },
+  "keywords": [
+    "blockchain",
+    "solidity",
+    "hardhat",
+    "ethers",
+    "todo-list"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^6.1.0",
+    "hardhat": "^2.27.0"
+  }
+}
