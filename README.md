@@ -4,9 +4,9 @@ Todo List On-Chain adalah project backend blockchain tanpa frontend. Seluruh dat
 
 ## Author
 
-Nama: Benjamin Khawarizmi Habibi
-
-NRP: 5027231078
+| Nama: Benjamin Khawarizmi Habibi |
+| -------- |
+| NRP: 5027231078 |
 
 ## Teknologi
 
